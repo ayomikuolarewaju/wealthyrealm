@@ -3,7 +3,7 @@ import "./globals.css";
 import Nav from "@/components/Nav";
 
 export const metadata: Metadata = {
-  title: "WealthRealm Int Group of Companies",
+  title: "WealthyRealm Int Group of Companies",
   description: "Food Delivery, Fabric Supply, and Real Estate across Africa.",
 };
 

@@ -323,7 +323,7 @@ export default function InvestForm() {
             <h1 className="text-[clamp(36px,5vw,60px)] font-extrabold leading-[0.9] tracking-tight mb-4">
               Invest in<br />
               <span className="bg-gradient-to-r from-emerald-400 via-lime-300 to-yellow-300 bg-clip-text text-transparent">
-                WealthRealm Int
+                WealthyRealm Int
               </span>
             </h1>
             <p className="text-[17px] text-zinc-400 leading-[1.65]">

@@ -6,9 +6,9 @@ import { ChevronRight, TrendingUp, Building2, ArrowUpRight } from "lucide-react"
 import Footer from "@/components/Footer";
 
 const services = [
-  { id:"food",       title:"Food Delivery",  subtitle:"WealthRim Eats",       image:"/images/food-delivery.jpg", color:"from-emerald-600 to-green-700",  accent:"bg-emerald-500" },
-  { id:"fabric",     title:"Fabric Supply",  subtitle:"WealthRim Textiles",    image:"/images/fabric.jpg",        color:"from-red-600 to-rose-700",       accent:"bg-red-500" },
-  { id:"realestate", title:"Real Estate",    subtitle:"WealthRim Properties",  image:"/images/realestate.jpg",    color:"from-lime-500 to-yellow-500",    accent:"bg-lime-500" },
+  { id:"food",       title:"Food Delivery",  subtitle:"WealthyRealm Eats",       image:"/images/food-delivery.jpg", color:"from-emerald-600 to-green-700",  accent:"bg-emerald-500" },
+  { id:"fabric",     title:"Fabric Supply",  subtitle:"WealthyRealm Textiles",    image:"/images/fabric.jpg",        color:"from-red-600 to-rose-700",       accent:"bg-red-500" },
+  { id:"realestate", title:"Real Estate",    subtitle:"WealthyRealm Properties",  image:"/images/realestate.jpg",    color:"from-lime-500 to-yellow-500",    accent:"bg-lime-500" },
 ];
 
 export default function Home() {
@@ -52,7 +52,7 @@ export default function Home() {
                 </h1>
 
                 <p className="text-[18px] md:text-[20px] leading-[1.6] text-zinc-300 max-w-[580px] mb-10">
-                  WealthRealm Int powers Food Delivery, Fabric Supply, and Real Estate across Africa — serving consumers, businesses, and governments.
+                  WealthyRealm Int powers Food Delivery, Fabric Supply, and Real Estate across Africa — serving consumers, businesses, and governments.
                 </p>
 
                 <div className="flex flex-wrap gap-3 mb-14">
