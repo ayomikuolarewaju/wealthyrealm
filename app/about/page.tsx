@@ -39,7 +39,7 @@ export default function About() {
               </span>
             </h1>
             <p className="text-[19px] leading-[1.65] text-zinc-300 max-w-[640px]">
-              WealthRim Group began with a simple belief: Africa&apos;s growing middle class deserved reliable, technology-driven services.
+              WealthRealm Int began with a simple belief: Africa&apos;s growing middle class deserved reliable, technology-driven services.
               We started with food. Then fabric. Then homes. Today we serve 47,000 customers across 18 countries — and we&apos;re just getting started.
             </p>
           </div>

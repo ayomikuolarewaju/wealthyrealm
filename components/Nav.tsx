@@ -37,7 +37,7 @@ export default function Nav() {
               <div className="absolute -bottom-1 -right-1 w-3 h-3 bg-red-600 rounded-full border-2 border-white" />
             </div>
             <div>
-              <div className="font-bold text-[22px] leading-none tracking-tight">WealthRim</div>
+              <div className="font-bold text-[22px] leading-none tracking-tight">WealthyRealm Int </div>
               <div className="text-[10px] text-zinc-500 font-medium tracking-widest uppercase -mt-0.5">GROUP OF COMPANIES</div>
             </div>
           </Link>

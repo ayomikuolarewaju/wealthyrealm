@@ -44,7 +44,7 @@ export default function Models() {
                   One platform,<br />three channels
                 </h1>
                 <p className="text-[17px] leading-[1.65] text-zinc-600 mb-8">
-                  WealthRim uniquely operates across all market segments — individual consumers, enterprise clients, and government agencies, all from one integrated infrastructure.
+                  WealthRealm Int uniquely operates across all market segments — individual consumers, enterprise clients, and government agencies, all from one integrated infrastructure.
                 </p>
                 <div className="flex items-center gap-4 p-4 rounded-2xl bg-white border border-zinc-200 shadow-sm">
                   <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-emerald-600 to-green-700 flex items-center justify-center shrink-0">
