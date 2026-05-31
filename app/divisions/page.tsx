@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const services = [
   {
-    id: "food", title: "Food Delivery", subtitle: "WealthRim Eats",
+    id: "food", title: "Food Delivery", subtitle: "WealthRealm Int Eats",
     description: "Fast, fresh, and reliable food delivery connecting local restaurants to homes and offices across Africa.",
     image: "/images/food-delivery.jpg", color: "from-emerald-600 to-green-700", accent: "bg-emerald-500",
     stats: { orders: "2.4M+", partners: "850+", cities: "24" },
@@ -12,7 +12,7 @@ const services = [
     href: "https://wealthafricart.netlify.app/categories/food-delivery",
   },
   {
-    id: "fabric", title: "Fabric Supply", subtitle: "WealthRim Textiles",
+    id: "fabric", title: "Fabric Supply", subtitle: "WealthRealm Int Textiles",
     description: "Premium African fabrics, textiles, and fashion materials delivered to designers, retailers, and manufacturers.",
     image: "/images/fabric.jpg", color: "from-red-600 to-rose-700", accent: "bg-red-500",
     stats: { fabrics: "5K+", designers: "1.2K+", countries: "18" },
@@ -20,7 +20,7 @@ const services = [
     href: "https://wealthafricart.netlify.app/categories/fashion",
   },
   {
-    id: "realestate", title: "Real Estate", subtitle: "WealthRim Properties",
+    id: "realestate", title: "Real Estate", subtitle: "WealthRealm Int Properties",
     description: "Developing affordable housing, commercial spaces, and government infrastructure across Africa.",
     image: "/images/realestate.jpg", color: "from-lime-500 to-yellow-500", accent: "bg-lime-500",
     stats: { units: "3.5K+", value: "$420M", projects: "47" },

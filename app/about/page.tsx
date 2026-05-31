@@ -33,8 +33,8 @@ export default function About() {
               <span className="text-[12px] font-semibold tracking-[0.14em] uppercase text-lime-400">Our Story</span>
             </div>
             <h1 className="text-[clamp(40px,6vw,72px)] font-extrabold leading-[0.9] tracking-tight mb-8">
-              12 years of<br />
-              <span className="bg-gradient-to-r from-emerald-400 via-lime-300 to-yellow-300 bg-clip-text text-transparent">
+              50 years of<br />
+              <span className="bg-gradient-to-r  from-emerald-400 via-lime-300 to-yellow-300 bg-clip-text text-transparent mt-[10px]">
                 building Africa.
               </span>
             </h1>
