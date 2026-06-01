@@ -66,7 +66,7 @@ export default function Impact() {
             </div>
             <div className="lg:col-span-5">
               <p className="text-[17px] leading-[1.65] text-zinc-400">
-                From a single food delivery pilot in Lagos (2012) to a multi-sector group operating in 18 countries. Profitable every year since inception.
+                From a single fabrics packaging & delivery pilot in Lagos (Since 1975) to a multi-sector group operating in 18 countries. Profitable every year since inception.
               </p>
             </div>
           </div>
