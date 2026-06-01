@@ -95,7 +95,7 @@ export default function Models() {
                   </div>
                   <h3 className="text-[22px] font-bold mb-2">Diversified Risk, Compounded Returns</h3>
                   <p className="text-[14px] leading-[1.6] text-zinc-400 max-w-[520px]">
-                    Our three-channel model reduces dependency on any single market. When B2C slows, B2B and B2G contracts provide stability. 12 years of consistent growth across economic cycles.
+                    Our three-channel model reduces dependency on any single market. When B2C slows, B2B and B2G contracts provide stability. 50 years of consistent growth across economic cycles.
                   </p>
                 </div>
               </div>

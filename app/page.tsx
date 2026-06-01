@@ -47,7 +47,7 @@ export default function Home() {
                       <div key={c} className={`w-5 h-5 rounded-full ${c} border-2 border-white/20`} />
                     ))}
                   </div>
-                  <span className="text-[12px] font-medium text-white/90 tracking-wide">12 YEARS BUILDING AFRICA</span>
+                  <span className="text-[12px] font-medium text-white/90 tracking-wide">50 YEARS BUILDING AFRICA</span>
                 </div>
 
                 <h1 className="text-[clamp(44px,7vw,84px)] font-extrabold leading-[0.85] tracking-[-0.03em] text-white mb-6">
