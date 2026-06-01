@@ -4,6 +4,13 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { ChevronRight, TrendingUp, Building2, ArrowUpRight } from "lucide-react";
 import Footer from "@/components/Footer";
+import CTAS from "@/components/CTAS";
+import Business from "@/components/Business";
+import Stats from "@/components/Stats";
+import Partners from "@/components/Partner";
+import Divisions from "@/components/Division";
+import Testimonials from "@/components/Testimonial";
+import Hero from "@/components/Hero";
 
 const services = [
   { id:"food",       title:"Food Delivery",  subtitle:"WealthyRealm Eats",       image:"/images/food-delivery.jpg", color:"from-emerald-600 to-green-700",  accent:"bg-emerald-500" },
@@ -141,6 +148,11 @@ export default function Home() {
           </div>
         </div>
       </section>
+      <Stats/>
+      <Business/>
+      <CTAS/>
+      <Partners/>
+      <Testimonials/>
       <Footer />
     </>
   );
