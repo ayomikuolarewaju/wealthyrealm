@@ -5,7 +5,7 @@ import { Clock, Package, Globe, Award } from "lucide-react";
 import Footer from "@/components/Footer";
 
 const stats = [
-  { value: 12,  suffix: "+",  label: "Years of Excellence",       sublabel: "Since 2012",          dot: "bg-emerald-500" },
+  { value: 50,  suffix: "+",  label: "Years of Excellence",       sublabel: "Since 2012",          dot: "bg-emerald-500" },
   { value: 47,  suffix: "K+", label: "Happy Customers",           sublabel: "Across 3 divisions",  dot: "bg-red-500" },
   { value: 850, suffix: "+",  label: "Business Partners",         sublabel: "Trusted network",      dot: "bg-lime-500" },
   { value: 420, suffix: "M",  prefix: "$", label: "Assets Under Management", sublabel: "And growing", dot: "bg-yellow-500" },

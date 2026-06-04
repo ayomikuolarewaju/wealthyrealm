@@ -5,7 +5,7 @@ import { useInView } from 'framer-motion';
 import { Clock, Package, Globe, Award } from 'lucide-react';
 
 const stats = [
-  { value: 12, suffix: '+', label: 'Years of Excellence', sublabel: 'Since 2012', prefix: null, color: 'emerald' },
+  { value: 50, suffix: '+', label: 'Years of Excellence', sublabel: 'Since 2012', prefix: null, color: 'emerald' },
   { value: 47, suffix: 'K+', label: 'Happy Customers', sublabel: 'Across 3 divisions', prefix: null, color: 'red' },
   { value: 850, suffix: '+', label: 'Business Partners', sublabel: 'Trusted network', prefix: null, color: 'lime' },
   { value: 420, suffix: 'M', label: 'Assets Under Management', sublabel: 'And growing', prefix: '$', color: 'yellow' }

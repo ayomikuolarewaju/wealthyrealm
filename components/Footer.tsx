@@ -34,7 +34,7 @@ export default function Footer() {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-[660px] mt-10 pt-8 border-t border-zinc-100">
           {[
-            { icon: Phone,  label: "Call us", value: ["+234 7070 457891", "+234 8086 437635"] },
+            { icon: Phone,  label: "Call us", value: ["08149751518","08023184330","07026720357"] },
             { icon: Mail,   label: "Email",   value: "wealthyrealmint@gmail.com" },
             { icon: MapPin, label: "HQ",      value: "Lagos, Nigeria" },
           ].map(({ icon: Icon, label, value }) => (
