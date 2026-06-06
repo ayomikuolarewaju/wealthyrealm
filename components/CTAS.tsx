@@ -47,9 +47,9 @@ export default function CTASection() {
             
           </div>
 
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-[720px] mx-auto mt-20 pt-12 border-t border-white/10">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 max-w-[920px] mx-auto mt-20 pt-12 border-t border-white/10">
             {[
-            { icon: Phone,  label: "Call us", value: ["08149751518","08023184330","07026720357"] },
+            { icon: Phone,  label: "Call us", value: ["08149751518 "," 08023184330 "," 07026720357"] },
             { icon: Mail,   label: "Email",   value: "wealthyrealmint@gmail.com" },
             { icon: MapPin, label: "HQ",      value: "Lagos, Nigeria" },
           ].map((contact, idx) => (
