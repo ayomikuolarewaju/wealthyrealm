@@ -9,7 +9,7 @@ const services = [
     image: "/images/food-delivery.jpg", color: "from-emerald-600 to-green-700", accent: "bg-emerald-500",
     stats: { orders: "2.4M+", partners: "850+", cities: "24" },
     features: ["30-min average delivery", "Real-time tracking", "B2B catering solutions", "Government contract meals"],
-    href: "https://wealthafricart.netlify.app/categories/food-delivery",
+    href: "https://wealthafricart.netlify.app/categories/food",
   },
   {
     id: "fabric", title: "Fabric Supply", subtitle: "WealthyRealm Int Textiles",
